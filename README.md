@@ -25,7 +25,7 @@ Also, computational models of Environmental Physics. </p>
 <hr />
 
 <h3 align="center">⚙️Languages And Tools ⚙️</h3> 
-  
+<p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />                                                             </a>    
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" />             </a>    
 <a href="https://fortran-lang.org/en/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" />                                             </a>   
@@ -44,7 +44,7 @@ Also, computational models of Environmental Physics. </p>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" />                      </a>    
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" />                              </a>    
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" />                                              </a>    
-           
+</p>           
 <hr  />
            
 <img img width="300" height="90"  src="https://github-readme-stats.vercel.app/api/top-langs?username=idragats&show_icons=true&locale=en&layout=compact" alt="most used languages" />
