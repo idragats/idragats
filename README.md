@@ -21,13 +21,13 @@ Also, computational models of Environmental Physics. </p>
 <h3 align="center"> 📠Connect With Me 📠</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank"> <img width="30" height="40"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ioannis dragatsikas" /> </a>
+<a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank"> <img width="30" height="30"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" /> </a>
 </p>
 <hr />
 
 <h3 align="center">⚙️Languages And Tools ⚙️</h3> 
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />                                                             </a>    
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />                                      </a>    
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" />             </a>    
 <a href="https://fortran-lang.org/en/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" />                                             </a>   
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />                                 </a>    
