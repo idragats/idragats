@@ -1,23 +1,23 @@
 <h1 align="center"> 👨‍💻Ioannis Dragatsikas 👨‍💻 </h1>
 <h3 align="center"> Materials Science | Computational Physics</h3>
 
+![](https://komarev.com/ghpvc/?username=idragats&color=blue)
+
 <img align="right" width="400"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
 
 - 🔭 I’m currently **not working**
 - 🌱 I’m currently learning **html, CSS, Java, JS**  
-- 👯 I’m looking to collaborate **At every coding or software development company**
+- 👯 I’m looking to collaborate **At software development company**
 - 🤔 I’m looking for help with **any programming language**
 - 💬 Ask me about **any programming issue**
 - 📫 How to reach me **dragatsikas.ioannis@gmail.com**
 
+<h4 align="left">About Me</h4>
 <p>Enthusiastic about, programming and data analysis. 
 Interested in studying and developing computational models about computational biophysics, 
 specifically about the human nervous system using Neural Networks.
 Also, computational models of Environmental Physics. </p>
 
-
-
-![](https://komarev.com/ghpvc/?username=idragats&color=blue)
 
 <hr  />
 
