@@ -50,7 +50,7 @@ Also, computational models of Environmental Physics. </p>
 </p>           
 <hr  />
            
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=idragats&show_icons=true&locale=en&layout=compact" alt="most used languages" />
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=idragats)](https://github.com/anuraghazra/github-readme-stats)
            
 <h3 align="center">📈 Stats📈 </h3>          
 
