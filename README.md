@@ -1,18 +1,21 @@
 <h1 align="center"> 👨‍💻Ioannis Dragatsikas 👨‍💻 </h1>
 <h3 align="center"> Materials Science | Computational Physics</h3>
 
-- 🔭 I’m currently don't working
-- 🌱 I’m currently learning html, CSS, Java, JS  
-- 👯 I’m looking to collaborate on coding or software development company
-- 🤔 I’m looking for help with any programming language
-- 💬 Ask me about any programming issue
+<img align="right" width="500"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
+
+- 🔭 I’m currently **not working**
+- 🌱 I’m currently learning **html, CSS, Java, JS**  
+- 👯 I’m looking to collaborate **At every coding or software development company**
+- 🤔 I’m looking for help with **any programming language**
+- 💬 Ask me about **any programming issue**
+- 📫 How to reach me **dragatsikas.ioannis@gmail.com**
 
 <p>Enthusiastic about, programming and data analysis. 
 Interested in studying and developing computational models about computational biophysics, 
 specifically about the human nervous system using Neural Networks.
 Also, computational models of Environmental Physics. </p>
 
-<img align="center" width="500"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
+
 
 ![](https://komarev.com/ghpvc/?username=idragats&color=blue)
 
@@ -21,7 +24,7 @@ Also, computational models of Environmental Physics. </p>
 <h3 align="center"> 📠Connect With Me 📠</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank"> <img width="30" height="30"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" /> </a>
+<a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank"> <img align="center" width="30" height="30"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" /> </a>
 </p>
 <hr />
 
