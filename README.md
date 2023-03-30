@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning html, CSS, Java, JS  
 - 👯 I’m looking to collaborate on coding or software development company
 - 🤔 I’m looking for help with any programming language
-- 💬 Ask me about any programming language
+- 💬 Ask me about any programming issue
 
 <p>Enthusiastic about, programming and data analysis. 
 Interested in studying and developing computational models about computational biophysics, 
@@ -16,13 +16,13 @@ Also, computational models of Environmental Physics. </p>
 
 ![](https://komarev.com/ghpvc/?username=idragats&color=blue)
 
-<hr style="height:10px; border:0; box-shadow:0 10px 10px -10px #095484 inset;" />
+<hr  />
 
 <h3 align="center"> 📠Connect With Me 📠</h3>
 
 <a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank"> <img width="30" height="40"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ioannis dragatsikas" /> </a>
 
-<hr style="display:block; content:""; height:30px; margin-top:-31px; border-style:solid; border-color:#095484; border-width:0 0 1px 0; border-radius:20px;" />
+<hr />
 
 <h3 align="center">⚙️Languages And Tools ⚙️</h3> 
   
@@ -45,7 +45,7 @@ Also, computational models of Environmental Physics. </p>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" />                              </a>    
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" />                                              </a>    
            
-<hr style="display:block; content:""; height:30px; margin-top:-31px; border-style:solid; border-color:#095484; border-width:0 0 1px 0; border-radius:20px;" />
+<hr  />
            
 <img img width="300" height="90"  src="https://github-readme-stats.vercel.app/api/top-langs?username=idragats&show_icons=true&locale=en&layout=compact" alt="most used languages" />
            
@@ -53,7 +53,7 @@ Also, computational models of Environmental Physics. </p>
 
 <img img width="467" height="195"  src= "https://github-readme-stats.vercel.app/api?username=idragats&amp;theme=vue-dark&amp;show_icons=true" alt="account stats" />           
            
-<hr style="height:10px; border:0; box-shadow:0 10px 10px -10px #095484 inset;" />
+<hr  />
 
 <details>
    <summary>Bibliography</summary>
