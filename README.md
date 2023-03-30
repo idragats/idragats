@@ -1,7 +1,7 @@
 <h1 align="center"> 👨‍💻Ioannis Dragatsikas 👨‍💻 </h1>
 <h3 align="center"> Materials Science | Computational Physics</h3>
 
-<img align="right" width="500"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
+<img align="right" width="400"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
 
 - 🔭 I’m currently **not working**
 - 🌱 I’m currently learning **html, CSS, Java, JS**  
