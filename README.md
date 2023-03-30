@@ -50,11 +50,9 @@ Also, computational models of Environmental Physics. </p>
 </p>           
 <hr  />
            
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=idragats)](https://github.com/anuraghazra/github-readme-stats)
-           
-<h3 align="center">📈 Stats📈 </h3>          
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=idragats&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)     
 
-<img  src= "https://github-readme-stats.vercel.app/api?username=idragats&amp;theme=vue-dark&amp;show_icons=true" alt="account stats" />           
+[![Ioannis's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=idragats&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)          
            
 <hr  />
 
