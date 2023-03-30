@@ -48,11 +48,11 @@ Also, computational models of Environmental Physics. </p>
 </p>           
 <hr  />
            
-<img img width="300" height="90"  src="https://github-readme-stats.vercel.app/api/top-langs?username=idragats&show_icons=true&locale=en&layout=compact" alt="most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=idragats&show_icons=true&locale=en&layout=compact" alt="most used languages" />
            
 <h3 align="center">📈 Stats📈 </h3>          
 
-<img img width="467" height="195"  src= "https://github-readme-stats.vercel.app/api?username=idragats&amp;theme=vue-dark&amp;show_icons=true" alt="account stats" />           
+<img  src= "https://github-readme-stats.vercel.app/api?username=idragats&amp;theme=vue-dark&amp;show_icons=true" alt="account stats" />           
            
 <hr  />
 
