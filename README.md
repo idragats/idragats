@@ -52,7 +52,7 @@ Also, computational models of Environmental Physics. </p>
            
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=idragats&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idragats&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)          
+[![Ioannis's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=idragats&hide=true&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)          
            
 <hr  />
 
