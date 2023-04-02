@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **not working**
 - 🌱 I’m currently learning **html, CSS, Java, JS**  
-- 👯 I’m looking to collaborate **With any software development company**
+- 👯 I’m looking to collaborate **with any software development company**
 - 🤔 I’m looking for help with **any programming language**
 - 💬 Ask me about **any programming issue**
 - 📫 How to reach me **dragatsikas.ioannis@gmail.com**
