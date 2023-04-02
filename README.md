@@ -3,9 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=idragats&color=blue)
 
-<img align="right" width="380"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
+<img align="right" width="370"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
 
-- 🔭 I’m currently **not working**
 - 🌱 I’m currently learning **html, CSS, Java, JS**  
 - 👯 I’m looking to collaborate **with any software development company**
 - 🤔 I’m looking for help with **any programming language**
