@@ -13,7 +13,7 @@
 <h4 align="left">About Me</h4>
 <p>Enthusiastic about, programming and data analysis. 
 Interested in studying and developing computational models about computational biophysics, specifically about the human nervous system using Neural Networks.
-Also, computational models of Environmental Physics. </p>
+Also, fascinated by computational models of Environmental Physics</p>
 
 
 <hr  />
