@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=idragats&color=blue)
 
-<img align="right" width="350"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
+<img align="right" width="320"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" /> 
 
 - 🌱 I’m currently learning **html, CSS, Java, JS**  
 - 👯 I am constantly looking for **new IT challenges**
