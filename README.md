@@ -43,7 +43,8 @@ Also, fascinated by video games development and  computational models of Environ
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" />                                            </a>    
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" />                      </a>    
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" />                              </a>    
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" />                                              </a>    
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" />                                              </a>  
+<a href="https://www.lammps.org/#gsc.tab=0" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://www.lammps.org/movies/logo.gif" alt="LAMMPS" />                                                                       </a>  
 </p>           
 <hr  />
            
