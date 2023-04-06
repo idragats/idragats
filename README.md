@@ -11,9 +11,8 @@
 - 📫 How to reach me **dragatsikas.ioannis@gmail.com**
 
 <h4 align="left">About Me</h4>
-<p>Enthusiastic about, programming and data analysis. 
-Interested in studying and developing computational models about computational biophysics, specifically about the human nervous system using Neural Networks.
-Also, fascinated by computational models of Environmental Physics</p>
+<p>EEnthusiastic about, programming and data analysis. Interested in studying and developing computational models about computational biophysics, specifically about the human nervous system using Neural Networks. 
+Also, fascinated by video games development and  computational models of Environmental Physics</p>
 
 
 <hr  />
