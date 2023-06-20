@@ -5,7 +5,7 @@
 
 <img align="right" width="320"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"> 
 
-- 🌱 I’m currently learning **Java, JS**  
+- 🌱 I’m currently learning **Qt**  
 - 👯 I am constantly looking for **new IT challenges**
 - 💬 Ask me about **any programming issue**
 - 📫 How to reach me **dragatsikas.ioannis@gmail.com**
@@ -44,7 +44,8 @@ Also, fascinated by video games development and  computational models of Environ
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" >                      </a>    
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" >                              </a>    
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" >                                              </a>  
-<a href="https://www.lammps.org/#gsc.tab=0" target="_blank" rel="noreferrer"> <img width="103" height="30" src="https://www.lammps.org/movies/logo.gif" alt="LAMMPS" >                                                                      </a>  
+<a href="https://www.lammps.org/#gsc.tab=0" target="_blank" rel="noreferrer"> <img width="103" height="30" src="https://www.lammps.org/movies/logo.gif" alt="LAMMPS" >                                                                      </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java-Logo" >                                                                      </a>  
 </p>           
 <hr>
            
