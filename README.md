@@ -5,7 +5,7 @@
 
 <img align="right" width="320"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"> 
 
-- 🌱 I’m currently learning **Qt**  
+- 🌱 I’m currently learning **Software Development**  
 - 👯 I am constantly looking for **new IT challenges**
 - 💬 Ask me about **any programming issue**
 - 📫 How to reach me **dragatsikas.ioannis@gmail.com**
