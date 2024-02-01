@@ -28,7 +28,6 @@ Also, fascinated by video games development and  computational models of Environ
 <h3 align="center">⚙️Languages And Tools ⚙️</h3> 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" >                                      </a>    
- 
 <a href="https://fortran-lang.org/en/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" >                                             </a>   
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" >                                 </a>    
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" >                                                 </a>    
