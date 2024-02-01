@@ -21,7 +21,7 @@ Also, fascinated by video games development and  computational models of Environ
 
 <p align="left">
 <a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank"> <img align="center" width="30" height="30"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" > </a>
-<a href="https://www.instagram.com/_ioannis_d_/"       target="_blank"> <img align="center" width="30" height="30"  src="https://icons8.com/icon/ZRiAFreol5mE/instagram" alt="instagram" > 
+<a href="https://www.instagram.com/_ioannis_d_/"       target="_blank"> <img align="center" width="30" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png" alt="instagram" > 
 </a>
 </p>
 <hr>
