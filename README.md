@@ -26,7 +26,7 @@ Also, fascinated by video games development and  computational models of Environ
 <hr>
 
 <h3 align="center">⚙️Languages And Tools ⚙️</h3> 
-<p align="left"> 
+<p> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" >                                      </a>    
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" >             </a>    
 
