@@ -31,7 +31,7 @@ Also, fascinated by video games development and  computational models of Environ
 <p align="left" > 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" >                                      </a>    
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" >             </a>    
-<a href="#" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" >                                             </a>   
+ <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" >                                              
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" >                                 </a>    
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" >                                                 </a>    
 <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="http://www.wolfram.com/common/framework/img/spikey.en.png" alt="mathematica" >                                            </a>    
