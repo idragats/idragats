@@ -28,7 +28,7 @@ Also, fascinated by video games development and  computational models of Environ
 <hr>
 
 <h3 align="center">⚙️Languages And Tools ⚙️</h3> 
-<p align="left" > 
+<p align="left" style="filter: invert(100%); -webkit-filter: invert(100%);"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" >                                      </a>    
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" >             </a>    
  <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" >                                              
