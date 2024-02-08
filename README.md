@@ -28,13 +28,13 @@ Also, fascinated by video games development and  computational models of Environ
 <hr>
 
 <h3 align="center">⚙️Languages And Tools ⚙️</h3> 
-<p align="left" style="filter: invert(1);> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" >                                      </a>    
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="filter: invert(1);>             </a>    
-<a href="https://fortran-lang.org/en/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" style="filter: invert(1);>                                             </a>   
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="filter: invert(1);>                                 </a>    
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" >                                                 </a>    
-<a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="http://www.wolfram.com/common/framework/img/spikey.en.png" alt="mathematica" >                                            </a>    
+<p align="left" > 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="filter: invert(1);">                                      </a>    
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="filter: invert(1);">             </a>    
+<a href="https://fortran-lang.org/en/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" style="filter: invert(1);">                                             </a>   
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="filter: invert(1);">                                 </a>    
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" style="filter: invert(1);">                                                 </a>    
+<a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="http://www.wolfram.com/common/framework/img/spikey.en.png" alt="mathematica" style="filter: invert(1);">                                            </a>    
 <a href="https://ccl.northwestern.edu/netlogo/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="http://netlogoweb.org/assets/images/desktopicon.png" alt="Netlogo" >                                                     </a>    
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" >                        </a>   
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" >                    </a>    
