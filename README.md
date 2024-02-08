@@ -19,9 +19,9 @@ Also, fascinated by video games development and  computational models of Environ
 
 <h3 align="center"> 📠Connect With Me 📠</h3>
 
-<p align="left">
-<a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank" rel="noreferrer"> <img width="30" height="40"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="filter: invert(1);">&nbsp;</a>
-<a  href="https://www.instagram.com/_ioannis_d_/" target="_blank" rel="noreferrer"> <img  width="30" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="filter: invert(1);"></a>
+<p align="left" style="filter: invert(1);>
+<a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank" rel="noreferrer"> <img width="30" height="40"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" ></a>
+<a  href="https://www.instagram.com/_ioannis_d_/" target="_blank" rel="noreferrer"> <img  width="30" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" ></a>
 
 
 </p>
@@ -39,16 +39,16 @@ Also, fascinated by video games development and  computational models of Environ
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" >                        </a>   
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" >                    </a>    
 <a href="https://support--rstudio-com.netlify.app/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://user-images.githubusercontent.com/4233458/29749526-6e7cc994-8b2e-11e7-8c6c-dc1fe28e6ad6.png" alt="RStudio" > </a>   
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" > style="filter: invert(1);"                             </a>    
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" > style="filter: invert(1);"                                               </a>    
-<a href="https://pandas.pydata.org/" target=" _blank" rel="noreferrer"> <img width="30" height="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas-Python" > style="filter: invert(1);"                                                       </a>   
-<a href="https://numpy.org/" target=" _blank" rel="noreferrer"> <img width="30" height="30" src="https://numpy.org/images/logo.svg" alt="Numpy" > style="filter: invert(1);"                                                                                           </a>    
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" > style="filter: invert(1);"                                            </a>    
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" > style="filter: invert(1);"                      </a>    
-<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" > style="filter: invert(1);"                              </a>    
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" > style="filter: invert(1);"                                              </a>  
-<a href="https://www.lammps.org/#gsc.tab=0" target="_blank" rel="noreferrer"> <img width="103" height="30" src="https://www.lammps.org/movies/logo.gif" alt="LAMMPS" > style="filter: invert(1);"                                                                      </a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java-Logo" > style="filter: invert(1);"                                               </a>  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" >                              </a>    
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" >                                                </a>    
+<a href="https://pandas.pydata.org/" target=" _blank" rel="noreferrer"> <img width="30" height="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas-Python" >                                                        </a>   
+<a href="https://numpy.org/" target=" _blank" rel="noreferrer"> <img width="30" height="30" src="https://numpy.org/images/logo.svg" alt="Numpy" >                                                                                           </a>    
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" >                                            </a>    
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" >                      </a>    
+<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" >                              </a>    
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" >                                              </a>  
+<a href="https://www.lammps.org/#gsc.tab=0" target="_blank" rel="noreferrer"> <img width="103" height="30" src="https://www.lammps.org/movies/logo.gif" alt="LAMMPS" >                                                                      </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java-Logo" >                                               </a>  
 </p>           
 <hr>
            
@@ -61,4 +61,6 @@ Also, fascinated by video games development and  computational models of Environ
 <details>
    <summary>Bibliography</summary>
        source of the gif image <a href="https://giphy.com/" target="_blank" rel="noreferrer"> www.giphy.com </a>.
-</details> 
+</details>         
+
+           
