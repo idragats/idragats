@@ -52,7 +52,7 @@ Also, fascinated by video games development and  computational models of Environ
 <!--<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">--> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" >                                              </a>
 
 
-<!--<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">-->	<img width="30" height="30" src="https://el.wikipedia.org/wiki/JavaScript#/media/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Unofficial_JavaScript_logo_2.svg" alt="javaScript-Logo" >                                               </a>   
+<!--<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">-->	<img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javaScript-Logo" >                                               </a>   
 <!--<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">-->  <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/120px-React_Logo_SVG.svg.png" alt="React-Logo" >                                                                </a> 
 <!--<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">-->	<img width="103" height="30" src="https://velog.velcdn.com/images/js43o/post/3ab8d087-c4f4-46b5-8f65-6d5e1736b58e/image.png" alt="Tailwindcss-Logo" >                                                                          </a> 					 
 					 
