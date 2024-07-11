@@ -44,20 +44,19 @@ Also, fascinated by video games development and  computational models of Environ
 <!--<a href="https://pandas.pydata.org/" target=" _blank" rel="noreferrer">--> <img width="30" height="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas-Python" >                                                        																</a>   
 <!--<a href="https://numpy.org/" target=" _blank" rel="noreferrer">--> <img width="30" height="30" src="https://numpy.org/images/logo.svg" alt="Numpy" >                                                                                           																</a>    
 <!--<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">--> <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" >                                            																</a> 
-
-<!--<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">--> <img width="30" height="30" src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" alt="django-Logo" >              </a>
-   
 <!--<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">--> <img width="30" height="30" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" >                     																</a>    
 <!--<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">--> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" >                              																</a>    
 <!--<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">--> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" >                                              																</a>
+<!--<a href="https://www.lammps.org/#gsc.tab=0" target="_blank" rel="noreferrer">--> <img width="103" height="30" src="https://www.lammps.org/movies/logo.gif" alt="LAMMPS" >                                                                      																</a>
+<!--<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">--> <img width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java-Logo" >                                               																</a>
+
 
 
 <!--<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">-->	<img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javaScript-Logo" >                                               				</a>   
 <!--<a href="https://react.dev/" target="_blank" rel="noreferrer">-->  <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/120px-React_Logo_SVG.svg.png" alt="React-Logo" >                                                                			</a> 
-<!--<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">-->	<img width="40" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss-Logo" >                                                          </a> 					 
-					 
-<!--<a href="https://www.lammps.org/#gsc.tab=0" target="_blank" rel="noreferrer">--> <img width="103" height="30" src="https://www.lammps.org/movies/logo.gif" alt="LAMMPS" >                                                                      																</a>
-<!--<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">--> <img width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java-Logo" >                                               																</a>  
+<!--<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">-->	<img width="40" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss-Logo" >                                                          </a>
+<!--<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">--> <img width="30" height="30" src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" alt="django-Logo" >              </a> 					 
+					   
  
 </p>           
 <hr>
