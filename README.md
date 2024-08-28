@@ -11,8 +11,8 @@
 - 📫 How to reach me **dragatsikas.ioannis@gmail.com**
 
 <h4 align="left">About Me</h4>
-<p>Enthusiastic about, programming and data analysis. Interested in studying and developing computational models about computational biophysics, specifically about the human nervous system using Neural Networks. 
-Also, fascinated by video games development and  computational models of Environmental Physics.</p>
+<p>Enthusiastic about, programming and data analysis. Interested in studying and developing computational models related biophysics, electromagnetism, time - series forecasting and environmental physics.
+ Also, I am enthusiastic about the field of web development due to the strong connection between data processing and technical programming skills.</p>
 
 
 <hr>
@@ -20,7 +20,7 @@ Also, fascinated by video games development and  computational models of Environ
 <h3 align="center"> 📠Connect With Me 📠</h3>
 
 <p align="left" style="filter: invert(1);>
-<a href="https://linkedin.com/in/ioannis-dragatsikas" target="_blank" rel="noreferrer"> <img width="auto" height="30"  src="https://lh3.googleusercontent.com/pw/ABLVV86MXdGbTOHJa5X0H_E8BqlNeo8OjVNOpRT593zcxJjQS3CUqbxOTbCfZo2u7WScur8fR-d_90-OdIVR_u2PJtrT-0hjcUWzo4zoJyzKxnN-8zoTfAWojLYiDmsWq0V4vhRYJJA9QgDLOTuZ7wWBa14=w291-h79-s-no-gm?authuser=0" alt="LinkedIn"></a>&nbsp;&nbsp
+<a href="https://www.linkedin.com/in/ioannis-dragatsikas/" target="_blank" rel="noreferrer"> <img width="auto" height="30"  src="https://lh3.googleusercontent.com/pw/ABLVV86MXdGbTOHJa5X0H_E8BqlNeo8OjVNOpRT593zcxJjQS3CUqbxOTbCfZo2u7WScur8fR-d_90-OdIVR_u2PJtrT-0hjcUWzo4zoJyzKxnN-8zoTfAWojLYiDmsWq0V4vhRYJJA9QgDLOTuZ7wWBa14=w291-h79-s-no-gm?authuser=0" alt="LinkedIn"></a>&nbsp;&nbsp
 <a  href="https://www.instagram.com/_ioannis_d_/" target="_blank" rel="noreferrer"> <img  width="30" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" ></a>
 
 
