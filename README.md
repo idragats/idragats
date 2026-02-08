@@ -24,7 +24,7 @@
         <li>📫 How to reach me: <a href="mailto:dragatsikas.ioannis@gmail.com">dragatsikas.ioannis@gmail.com</a></li>
       </ul>
     </td>
-    <td valign="center" width="40%">
+    <td valign="center" width="30%">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4ZDRjMGE5M2NhZDZhYTgzMThiNTlhOTZkZmY1MWZiZTI1YzAwOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="100%">
     </td>
   </tr>
@@ -32,13 +32,14 @@
 
 <hr>
 
-<h3 align="center">📠 Connect With Me 📠</h3>
+<h2 align="center">📠 Connect With Me 📠</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ioannis-dragatsikas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/_ioannis_d_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
   </a>
 </p>
 
@@ -46,45 +47,138 @@
 
 <h2 align="center">⚙️ Skills & Tools ⚙️</h2>
 
-<h3 align="center">⌨️ Programming Languages</h3>
+<h2 align="center">⌨️ Programming Languages</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran">
-  <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="r" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://fortran-lang.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mathworks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+  </a>
 </p>
 
-<h3 align="center">🔙 Backend Frameworks</h3>
+<h2 align="center">🐍 Python Libraries</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/>
+  </a>
 </p>
 
-<h3 align="center">🎨 Frontend Frameworks & Tech</h3>
+<h2 align="center">🔙 Backend & IDEs</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnet" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="30" height="30"/>
+  </a>
 </p>
 
-<h3 align="center">📊 Data Analyst Tools & Science</h3>
+<h2 align="center">🗄️ Databases</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
-  <img src="https://img.shields.io/badge/Mathematica-dd1100?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Mathematica">
-  <img src="https://img.shields.io/badge/LAMMPS-BLUE?style=for-the-badge" alt="LAMMPS">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+  </a>
+</p>
+
+<h2 align="center">🎨 Frontend Frameworks & Tech</h2>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank">
+    <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
+  </a>
+</p>
+
+<h2 align="center">📊 Data Analyst Tools & Science</h2>
+<p align="center">
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="100" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.wolfram.com/mathematica/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="mathematica" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.lammps.org/" target="_blank">
+    <img src="https://www.lammps.org/movies/logo.gif" alt="LAMMPS" width="100" height="35"/>
+  </a>
 </p>
 
 <hr>
